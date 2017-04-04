@@ -18,3 +18,6 @@ I will be using AngularJS in the front end.(client side)
 MTA bus API will be used in the backend in order to get the data from the client's server.
 
 Cassandra database in order to keep record of  station options.
+
+# Agile Methodology
+This app will be created using an agile Methodology. I will be using Jet Brains YouTrack in order to keep track of each sprint. 
